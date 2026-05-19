@@ -1,8 +1,13 @@
-<h1 align="left">Hey 👋 I'm Italo marcelo</h1>
+# Hey 👋 I'm Italo Marcelo
 
-###
+Frontend developer focused on React and modern web applications.
 
-<h2 align="left">About me</h2>
+---
+## 🚀 About Me
+- 🌱 Learning Node.js, Express & MongoDB
+- 🖥️ React + TypeScript
+- 🎯 Focused on clean UI
+- 🗺️ Brazil
 
 ###
 
