@@ -30,19 +30,97 @@ Frontend developer focused on React and modern web applications.
 
 ## Featured Projects
 
-| Project | Preview |
-|---|---|
-| Countries-API | <img src="./images/Macbook-Air-countries-api-ts.vercel.app.png" width="300px" /> |
-
-| Project | Preview |
-|---|---|
-| LoopStudios | <img src="./images/Macbook-Air-loopstudios-silk-alpha.vercel.app.png" width="300px" /> |
 
 
-| Project | Preview |
-|---|---|
-| Static-Job | <img src="./images/Macbook-Air-static-job-one.vercel.app.png" width="300px" /> |
+# 🚀 Featured Projects
 
+<table >
+<tr>
+
+<td width="50%">
+
+## Countries-API
+
+pequena descrição 
+
+### ⚡ Techs
+
+
+### 🔗 Links
+<div style='flex flex-row'>
+Live Demo
+Repository
+</div>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="./images/Macbook-Air-countries-api-ts.vercel.app.png" width="200px" style="border-radius:12px;" /> 
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width="50%">
+
+## LoopStudios 
+
+pequena descrição 
+
+### ⚡ Techs
+
+
+### 🔗 Links
+<div style='flex flex-row'>
+Live Demo
+Repository
+</div>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="./images/Macbook-Air-loopstudios-silk-alpha.vercel.app.png" width="200px" style="border-radius:12px;" />
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+## Static-Job 
+
+pequena descrição 
+
+### ⚡ Techs
+
+
+### 🔗 Links
+<div style='flex flex-row'>
+Live Demo
+Repository
+</div>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="./images/Macbook-Air-static-job-one.vercel.app (1).png" width="200px" style="border-radius:12px;" /> 
+
+
+</td>
+
+</tr>
+
+</table>
 
 
 ## 🌐 Contact
