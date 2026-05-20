@@ -9,6 +9,7 @@ Frontend developer focused on React and modern web applications.
 - 🎯 Focused on clean UI
 - 🗺️ Brazil
 
+
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -29,6 +30,9 @@ Frontend developer focused on React and modern web applications.
 
 ## Featured Projects
 
+| Project | Preview |
+|---|---|
+| Geladinho Store | <img src="Macbook-Air-countries-api-ts.vercel.app.png" width="300px" /> |
 
 ## 🌐 Contact
 
