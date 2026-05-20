@@ -17,7 +17,7 @@ Frontend developer focused on React and modern web applications.
 
 ## 📈 GitHub Stats
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItaloDev-Marcelo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://ghchart.rshah.org/409ba5/ItaloDev-Marcelo)
 
 ---
 
@@ -26,6 +26,10 @@ Frontend developer focused on React and modern web applications.
 [![GitHub Streak](https://streak-stats.demolab.com?user=ItaloDev-Marcelo&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+
+## Featured Projects
+
+
 ## 🌐 Contact
 
 - LinkedIn
