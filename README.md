@@ -32,7 +32,18 @@ Frontend developer focused on React and modern web applications.
 
 | Project | Preview |
 |---|---|
-| Geladinho Store | <img src="Macbook-Air-countries-api-ts.vercel.app.png" width="300px" /> |
+| Countries-API | <img src="./images/Macbook-Air-countries-api-ts.vercel.app.png" width="300px" /> |
+
+| Project | Preview |
+|---|---|
+| LoopStudios | <img src="./images/Macbook-Air-loopstudios-silk-alpha.vercel.app.png" width="300px" /> |
+
+
+| Project | Preview |
+|---|---|
+| Static-Job | <img src="./images/Macbook-Air-static-job-one.vercel.app.png" width="300px" /> |
+
+
 
 ## 🌐 Contact
 
