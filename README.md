@@ -26,105 +26,23 @@ Frontend developer focused on React and modern web applications.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ItaloDev-Marcelo&theme=tokyonight)](https://git.io/streak-stats)
 
----
-
-## Featured Projects
-
-
-
-# 🚀 Featured Projects
-
-<table >
-<tr>
-
-<td width="50%">
-
-## Countries-API
-
-pequena descrição 
-
-### ⚡ Techs
-
-
-### 🔗 Links
-<div style='flex flex-row'>
-Live Demo
-Repository
-</div>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="./images/Macbook-Air-countries-api-ts.vercel.app.png" width="200px" style="border-radius:12px;" /> 
-
-</td>
-
-</tr>
-
-
-
-<tr>
-
-<td width="50%">
-
-## LoopStudios 
-
-pequena descrição 
-
-### ⚡ Techs
-
-
-### 🔗 Links
-<div style='flex flex-row'>
-Live Demo
-Repository
-</div>
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="./images/Macbook-Air-loopstudios-silk-alpha.vercel.app.png" width="200px" style="border-radius:12px;" />
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-## Static-Job 
-
-pequena descrição 
-
-### ⚡ Techs
-
-
-### 🔗 Links
-<div style='flex flex-row'>
-Live Demo
-Repository
-</div>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="./images/Macbook-Air-static-job-one.vercel.app (1).png" width="200px" style="border-radius:12px;" /> 
-
-
-</td>
-
-</tr>
-
-</table>
-
 
 ## 🌐 Contact
 
-- LinkedIn
-- Email
-- Portfolio
+<p align="left">
+
+<a href="mailto:marcelo.prado2024.mar.marcelo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/italo-marcelo-06b130241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5573981339671?text=Olá%20vi%20seu%20GitHub">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+
+</p>
+
